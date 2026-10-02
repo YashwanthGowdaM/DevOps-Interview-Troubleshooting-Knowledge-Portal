@@ -1,0 +1,6 @@
+{
+  "name": "DevOps Interview & Troubleshooting Knowledge Portal",
+  "description": "Centralized DevOps knowledge portal with AI-powered multi-question analysis, 8-section senior engineering playbooks, and real Supabase PostgreSQL integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
